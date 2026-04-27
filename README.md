@@ -1,5 +1,5 @@
 <h1 align="center">Mostafa Sayed</h1>
-<h3 align="center">Full-Stack Developer | Next.js & React Specialist</h3>
+<h3 align="center">Full-Stack Developer | Next.js, React, TypeScript | Performance & SEO Focused</h3>
 
 <p align="center">
   Building fast, scalable, and high-performance web applications with modern technologies.
@@ -15,16 +15,20 @@
 ---
 
 ### 🛠 Tech Stack
+### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,git,github,vercel,netlify" />
 </p>
 
+**Also working with:** APIs, GSAP, Swiper, Framer Motion
+
 ---
 
 ### 📂 Featured Projects
 - 🔗 [Portfolio](https://mostafasayed-dev.netlify.app/)
+- 🔗 [Salad Platform](https://salad.sa/)
 - 🔗 [Biinaa Platform](https://biinaa.sa/)
 - 🔗 [Thaheen SA](https://thaheensa.com/)
 - 🔗 [Beauty Booking](https://beauty-booking.com/)
