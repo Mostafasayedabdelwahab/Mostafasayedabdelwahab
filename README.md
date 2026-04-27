@@ -15,7 +15,6 @@
 ---
 
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
   <br/>
@@ -32,13 +31,6 @@
 - 🔗 [Biinaa Platform](https://biinaa.sa/)
 - 🔗 [Thaheen SA](https://thaheensa.com/)
 - 🔗 [Beauty Booking](https://beauty-booking.com/)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafasayedabdelwahab&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
