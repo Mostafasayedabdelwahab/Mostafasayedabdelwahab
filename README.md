@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mostafa Sayed</h1>
+<h3 align="center">Full-Stack Developer passionate about building modern web applications</h3>
 
-<!--
-**Mostafasayedabdelwahab/Mostafasayedabdelwahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I build fast and scalable web applications  
+- ⚡ Focused on performance and clean code  
+- 🎯 Always improving and learning new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- Frontend: React, Next.js, JavaScript, TypeScript  
+- Styling: Tailwind CSS, Bootstrap  
+- Backend: Node.js, APIs  
+- Database: PostgreSQL, Prisma  
+- Tools: Git, GitHub  
+
+---
+
+### 📂 Featured Projects
+- 🔗 [Portfolio](https://mostafasayed-dev.netlify.app/)
+- 🔗 [Beauty Booking Platform](https://beauty-booking.com/)
+
+---
+
+### 📫 Contact Me
+- LinkedIn: https://linkedin.com/in/mostafa-sayed-hse  
+- Email: mostafasayedabdelwahab@gmail.com  
+
+---
+
+⭐️ From Mostafa Sayed
